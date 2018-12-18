@@ -1,7 +1,7 @@
 /**
  * memory.h
  *
- * Copyright (C) 2018 tetsugaku.info
+ * Copyright (C) 2018 daisuke-t.
  */
 
 #ifndef	___MEMORY_H_

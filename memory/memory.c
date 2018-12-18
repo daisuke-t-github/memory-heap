@@ -1,7 +1,7 @@
 /**
  * memory.c
  *
- * Copyright (C) 2018 tetsugaku.info
+ * Copyright (C) 2018 daisuke-t.
  */
 
 #include "memory.h"

@@ -1,7 +1,7 @@
 /**
  * main.c
  *
- * Copyright (C) 2018 tetsugaku.info
+ * Copyright (C) 2018 daisuke-t.
  *
  * memory heap management code on C language.
  */
